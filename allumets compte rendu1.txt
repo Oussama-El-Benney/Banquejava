@@ -1,0 +1,99 @@
+import java.util.Scanner;
+
+public class Joueur {
+  int id;
+  int score;
+  boolean lastoplay=false;
+
+  Joueur(int id){
+    this.id=id;
+  }
+
+  void jouer(Allumettes A1, Joueur j) {
+    int n;
+    System.out.print("Saisir le nombre d allumets entre 1 et 3 a prendre");
+    Scanner s = new Scanner(System.in);
+    do {
+      n = s.nextInt();
+    } while(n>3 || n<1);
+    A1.nbr -= n;
+    this.lastoplay = true;
+    j.lastoplay = false;
+  }
+
+  void afficher() {
+    System.out.println("Score du joueur "+id+" est:"+score);
+  }
+
+}
+
+
+import java.util.Scanner;
+
+public class Allumettes {
+
+  int nbr;
+  void EnterNumber() {
+    System.out.println("Entrer le nombre d allumet que vous voulez jouez avec");
+    Scanner sc = new Scanner(System.in) ;
+    do {
+      this.nbr = sc.nextInt();
+    } while(nbr<0);
+    System.out.println("Ce jeux contient " + this.nbr + " alumettes");
+  }
+  void afficher() {
+    System.out.println("vous disposez de " + nbr + " alumettes");
+    for (int i=1; i<=this.nbr; i++)
+    {
+      System.out.print("| ");
+    }
+    System.out.println();
+  }
+}
+
+
+import java.util.Scanner;
+
+public class Test {
+
+  public static void main(String[] args) {
+    // TODO Auto-generated method stub
+    int n=1;
+    Joueur j1 = new Joueur(1);
+    Joueur j2 = new Joueur(2);
+    Allumettes A1 = new Allumettes();
+    System.out.println("*****");
+    System.out.println("Jeu des alumettes");
+    System.out.println("*****");
+    do {
+      A1.EnterNumber();
+      A1.afficher();
+
+      while (A1.nbr > 0) {
+        System.out.println("c'est le tour du Joueur" + j1.id);
+        A1.afficher();
+
+        j1.jouer(A1,j2);
+        if (A1.nbr <= 0) break;
+        System.out.println("c'est le tour du Joueur" + j2.id);
+        A1.afficher();
+        j2.jouer(A1,j1);
+        if (A1.nbr <= 0) break;
+      }
+
+      if (!j1.lastoplay) {
+        j1.score++;
+        System.out.println("Congratulations Joueur 1 a gagner");
+      }
+      if (!j2.lastoplay) {
+        j2.score++;
+        System.out.println("Congratulations Joueur 2 a gagner");
+      }
+      System.out.println("if you want to replay enter 1 if not enter 0");
+      Scanner sc = new Scanner(System.in) ;
+      n = sc.nextInt();
+    }while(n==1);
+    j1.afficher();
+    j2.afficher();
+  }
+}
