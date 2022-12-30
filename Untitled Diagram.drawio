@@ -1,20 +1,223 @@
-<mxfile host="app.diagrams.net" modified="2022-12-30T13:37:03.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="CcadhukhgQei_i5rfDtR" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-30T15:01:23.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="3s6lRgdNOm-VBjJlIMve" version="20.7.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="910" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="g-d-6gSf76YK7SEDgNIT-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;ResearchPage&lt;/font&gt;&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="370" y="40" width="100" height="440" as="geometry" />
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-17" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontSize=14;dashed=1;fillColor=#e1d5e7;strokeColor=#000000;perimeterSpacing=0;spacingRight=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="810" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="g-d-6gSf76YK7SEDgNIT-5" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Internship&lt;br&gt;Module&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#191a19;" vertex="1" parent="1">
-          <mxGeometry x="640" y="40" width="100" height="440" as="geometry" />
+        <mxCell id="g-d-6gSf76YK7SEDgNIT-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;ResearchPage&lt;/font&gt;&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="370" y="40" width="100" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="g-d-6gSf76YK7SEDgNIT-6" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#67AB9F;align=left;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="145" y="10" width="30" height="470" as="geometry" />
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontSize=16;fillColor=#f8cecc;" vertex="1" parent="g-d-6gSf76YK7SEDgNIT-4">
+          <mxGeometry x="45" y="170" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="g-d-6gSf76YK7SEDgNIT-9" value="Étudiant" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontSize=14;fillColor=#67AB9F;" vertex="1" parent="1">
-          <mxGeometry x="120" y="60" width="80" height="26" as="geometry" />
+        <mxCell id="g-d-6gSf76YK7SEDgNIT-5" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Internship&lt;br&gt;Module&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="640" y="40" width="100" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontSize=14;fillColor=#dae8fc;" vertex="1" parent="g-d-6gSf76YK7SEDgNIT-5">
+          <mxGeometry x="45" y="260" width="10" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-16" value="&lt;span style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; font-size: 12px; text-align: center; background-color: rgb(248, 249, 250);&quot;&gt;Verify keywords&lt;br&gt;&amp;nbsp;in database&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=0.883;entryY=0.055;fontSize=14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="At5qPvvLP8jXeKK-ldAs-25" parent="g-d-6gSf76YK7SEDgNIT-5">
+          <mxGeometry y="5" relative="1" as="geometry">
+            <mxPoint x="55" y="270" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="270" />
+              <mxPoint x="85" y="299" />
+            </Array>
+            <mxPoint x="65" y="300" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g-d-6gSf76YK7SEDgNIT-6" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#67AB9F;align=left;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="150" y="25" width="20" height="895" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontSize=16;fillColor=#67ab9f;" vertex="1" parent="g-d-6gSf76YK7SEDgNIT-6">
+          <mxGeometry x="5" y="190" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontSize=16;fillColor=#67ab9f;" vertex="1" parent="g-d-6gSf76YK7SEDgNIT-6">
+          <mxGeometry x="5" y="250" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g-d-6gSf76YK7SEDgNIT-9" value="Étudiant" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontSize=14;fillColor=#67AB9F;" parent="g-d-6gSf76YK7SEDgNIT-6" vertex="1">
+          <mxGeometry x="-30" y="55" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-2" value="Ref" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="650" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-3" value="Authentication" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=#82b366;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;labelBackgroundColor=none;fillColor=#d5e8d4;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="137" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-7" value="&lt;font style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; font-weight: 700; background-color: rgb(248, 249, 250);&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-weight: bolder; font-size: 12px;&quot;&gt;Enter a&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; font-size: 12px; font-weight: 700; background-color: rgb(248, 249, 250);&quot;&gt;search request&lt;/span&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;fontSize=16;" edge="1" target="At5qPvvLP8jXeKK-ldAs-6" parent="1" source="g-d-6gSf76YK7SEDgNIT-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="210" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="280" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-10" value="&lt;span style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;Press Confirm button&lt;/span&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;fontSize=16;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="270" as="sourcePoint" />
+            <mxPoint x="415" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-12" value="&lt;span style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;Send search request keywords&lt;/span&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;fontSize=14;" edge="1" target="At5qPvvLP8jXeKK-ldAs-11" parent="1" source="g-d-6gSf76YK7SEDgNIT-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="300" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="570" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-18" value="&lt;span style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; background-color: rgb(248, 249, 250);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[Results found]&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="35" y="380" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-19" value="&lt;span style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;font style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased;&quot;&gt;Load search results&lt;/font&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=14;entryX=0.128;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="At5qPvvLP8jXeKK-ldAs-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="379" as="sourcePoint" />
+            <mxPoint x="610" y="379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontSize=14;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="415" y="380" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-21" value="&lt;span style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;Display search results&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=14;" edge="1" parent="1" source="At5qPvvLP8jXeKK-ldAs-20" target="At5qPvvLP8jXeKK-ldAs-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="399.5" as="sourcePoint" />
+            <mxPoint x="330" y="399.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontSize=16;fillColor=#67ab9f;" vertex="1" parent="1">
+          <mxGeometry x="155" y="390" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontSize=16;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="690" y="337" width="10" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontSize=16;fillColor=#67ab9f;" vertex="1" parent="1">
+          <mxGeometry x="155" y="450" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontSize=16;fillColor=#67ab9f;" vertex="1" parent="1">
+          <mxGeometry x="155" y="510" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-28" value="&lt;span style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;Select filter choices&lt;/span&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;fontSize=16;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="450" as="sourcePoint" />
+            <mxPoint x="415" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-29" value="&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;b&gt;Press Confirm button&lt;/b&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;fontSize=16;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="510" as="sourcePoint" />
+            <mxPoint x="415" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontSize=16;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="415" y="450" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-33" value="&lt;span style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;Send search request keywords&lt;/span&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="540" as="sourcePoint" />
+            <mxPoint x="690" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="575" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-34" value="&lt;span style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; font-size: 12px; text-align: center; background-color: rgb(248, 249, 250);&quot;&gt;Verify request&lt;br&gt;&amp;nbsp;in database&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=0.883;entryY=0.055;fontSize=14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="At5qPvvLP8jXeKK-ldAs-35">
+          <mxGeometry y="5" relative="1" as="geometry">
+            <mxPoint x="695" y="540" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="725" y="540" />
+              <mxPoint x="725" y="569" />
+            </Array>
+            <mxPoint x="65" y="530" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontSize=16;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="690" y="567" width="10" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-36" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#403644;strokeWidth=1.3;fontSize=14;fillColor=#e1d5e7;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="580" width="670" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-37" value="&lt;span style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; font-size: x-small; background-color: rgb(248, 249, 250);&quot;&gt;[Results found]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="60" y="610" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-38" value="&lt;span style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;font style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased;&quot;&gt;Load search results after filter&lt;/font&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=14;entryX=0.128;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="620" as="sourcePoint" />
+            <mxPoint x="416.28" y="620.56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontSize=14;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="415" y="620" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-40" value="&lt;span style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;Display search results&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=14;" edge="1" parent="1" target="At5qPvvLP8jXeKK-ldAs-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="640" as="sourcePoint" />
+            <mxPoint x="200" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontSize=16;fillColor=#67ab9f;" vertex="1" parent="1">
+          <mxGeometry x="155" y="640" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-46" value="" style="line;strokeWidth=1.3;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;dashed=1;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="690" width="670" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-47" value="&lt;span style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; font-size: x-small; background-color: rgb(248, 249, 250);&quot;&gt;[No Results found]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="55" y="698" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-48" value="&lt;span style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;Request Rejected&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="730" as="sourcePoint" />
+            <mxPoint x="420" y="731" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-49" value="&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;b&gt;Display informational message&lt;/b&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=14;" edge="1" parent="1" target="At5qPvvLP8jXeKK-ldAs-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="750" as="sourcePoint" />
+            <mxPoint x="170" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-50" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontSize=14;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="415" y="728" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-51" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontSize=16;fillColor=#67ab9f;" vertex="1" parent="1">
+          <mxGeometry x="155" y="740" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-52" value="&lt;span style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;Request Rejected&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="842" as="sourcePoint" />
+            <mxPoint x="420" y="843" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-53" value="&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;b&gt;Display informational message&lt;/b&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=14;" edge="1" parent="1" target="At5qPvvLP8jXeKK-ldAs-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="862" as="sourcePoint" />
+            <mxPoint x="170" y="862" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-54" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontSize=14;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="415" y="840" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-55" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontSize=16;fillColor=#67ab9f;" vertex="1" parent="1">
+          <mxGeometry x="155" y="852" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-56" value="" style="line;strokeWidth=1.3;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;dashed=1;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="790" width="810" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="At5qPvvLP8jXeKK-ldAs-58" value="&lt;span style=&quot;box-sizing: content-box; -webkit-font-smoothing: antialiased; font-weight: bolder; font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;VP Default&amp;quot;; background-color: rgb(248, 249, 250);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[No Results found]&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="35" y="798" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
